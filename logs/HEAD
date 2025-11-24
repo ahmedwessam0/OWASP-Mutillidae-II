@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 c060a5fe10daa625929b67296e17a7f46a4e4df8 Yara Mohamed <your-email@example.com> 1763925487 +0200	commit (initial): Add Semgrep rules and results
+c060a5fe10daa625929b67296e17a7f46a4e4df8 c060a5fe10daa625929b67296e17a7f46a4e4df8 Yara Mohamed <your-email@example.com> 1763925569 +0200	checkout: moving from main to semgrep/Yara
+c060a5fe10daa625929b67296e17a7f46a4e4df8 0000000000000000000000000000000000000000 Yara Mohamed <your-email@example.com> 1763926167 +0200	Branch: renamed refs/heads/semgrep/Yara to refs/heads/main
+0000000000000000000000000000000000000000 c060a5fe10daa625929b67296e17a7f46a4e4df8 Yara Mohamed <your-email@example.com> 1763926167 +0200	Branch: renamed refs/heads/semgrep/Yara to refs/heads/main
+c060a5fe10daa625929b67296e17a7f46a4e4df8 0000000000000000000000000000000000000000 Yara Mohamed <your-email@example.com> 1763926698 +0200	Branch: renamed refs/heads/main to refs/heads/main
+c060a5fe10daa625929b67296e17a7f46a4e4df8 c060a5fe10daa625929b67296e17a7f46a4e4df8 Yara Mohamed <your-email@example.com> 1763926698 +0200	Branch: renamed refs/heads/main to refs/heads/main
+c060a5fe10daa625929b67296e17a7f46a4e4df8 895bc8df21937369757fcc584e30e73d97bcb866 Yara Mohamed <your-email@example.com> 1763926921 +0200	commit: first commit
+895bc8df21937369757fcc584e30e73d97bcb866 0000000000000000000000000000000000000000 Yara Mohamed <your-email@example.com> 1763926921 +0200	Branch: renamed refs/heads/main to refs/heads/main
+895bc8df21937369757fcc584e30e73d97bcb866 895bc8df21937369757fcc584e30e73d97bcb866 Yara Mohamed <your-email@example.com> 1763926921 +0200	Branch: renamed refs/heads/main to refs/heads/main
+895bc8df21937369757fcc584e30e73d97bcb866 0000000000000000000000000000000000000000 Yara Mohamed <your-email@example.com> 1763926935 +0200	Branch: renamed refs/heads/main to refs/heads/main
+895bc8df21937369757fcc584e30e73d97bcb866 895bc8df21937369757fcc584e30e73d97bcb866 Yara Mohamed <your-email@example.com> 1763926935 +0200	Branch: renamed refs/heads/main to refs/heads/main
+895bc8df21937369757fcc584e30e73d97bcb866 0000000000000000000000000000000000000000 Yara Mohamed <your-email@example.com> 1763926964 +0200	Branch: renamed refs/heads/main to refs/heads/main
+895bc8df21937369757fcc584e30e73d97bcb866 895bc8df21937369757fcc584e30e73d97bcb866 Yara Mohamed <your-email@example.com> 1763926964 +0200	Branch: renamed refs/heads/main to refs/heads/main
