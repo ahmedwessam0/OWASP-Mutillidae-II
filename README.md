@@ -191,7 +191,6 @@ This branch contained:
 ## 📌 *7. Demo Video & Report*
 
 * *Technical Report:* included as Lab4 Secure.pdf
-* *Demo Video:* (Add link here after uploading)
 
 ---
 
@@ -199,7 +198,6 @@ This branch contained:
 
 * OWASP Mutillidae II: [https://github.com/webpwnized/mutillidae](https://github.com/webpwnized/mutillidae)
 * Semgrep Documentation: [https://semgrep.dev/docs/](https://semgrep.dev/docs/)
-* My GitHub Repo: [https://github.com/MostafaaaHussein/SAST-](https://github.com/MostafaaaHussein/SAST-)
 
 ---
 
@@ -214,3 +212,4 @@ This project demonstrates:
 ✔ Producing a polished report & documentation
 
 Prepared by *Ahmed wessam salem - 2305034*
+
